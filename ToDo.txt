@@ -1,2 +1,2 @@
-Clean House, Low
-Pay Bills, High
+Laundry,low
+Hw,high
